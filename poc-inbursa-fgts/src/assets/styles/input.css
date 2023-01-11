@@ -1,0 +1,23 @@
+.proposed-input {
+    box-sizing: border-box !important;
+    background: #FFFFFF !important;
+    border: 3px solid #17335E !important;
+    width: 400px !important;
+    height: 50px !important;
+    padding: 5px !important;
+}
+.proposed-input-token {
+    box-sizing: border-box !important;
+    background: #FFFFFF !important;
+    border: 3px solid #17335E !important;
+    width: 50px !important;
+    height: 50px !important;
+    margin: 5px !important;
+    padding: 15px !important;
+}
+
+@media (max-width: 992px) {
+    .proposed-input {
+        width: 100% !important;
+    }
+}

@@ -1,0 +1,70 @@
+.icon-vector {
+    float: left;
+    padding: 10px;
+    margin-right: 30px;
+    margin-top: 10px;
+}
+
+.flex-list {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 15px;
+    margin-left: 80px;
+}
+
+.background-green{
+    background-color: #f3f0f0;
+}
+
+.click-flex-document-left{
+    margin-right: 70px;
+}
+
+.click-flex-document-right{
+    margin-left: 70px;
+}
+
+
+.click-flex-document-file{
+   background-color: red;
+}
+
+.text-list {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    color: #6C6C6C;
+    margin-bottom: 5px;
+}
+
+.text-list li{
+    line-height: 22px;
+}
+
+
+.text-large-document {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 28px;
+    text-align: center;
+    color: #6C6C6C;
+}
+
+.text-large-document-rg-cnh {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 19px;
+    text-align: center;
+    color: #6C6C6C;
+}
+
+.file-input{
+    display: none;
+}

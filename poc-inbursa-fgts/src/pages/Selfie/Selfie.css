@@ -1,0 +1,28 @@
+.icon-vector {
+    float: left;
+    padding: 10px;
+    margin-right: 30px;
+    margin-top: 10px;
+}
+
+.flex-list {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 5px;
+    margin-left: 0px;
+}
+
+
+.text-list {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 16px;
+    color: #6C6C6C;
+}
+
+.text-large-document{
+    margin-top: 0px;
+}

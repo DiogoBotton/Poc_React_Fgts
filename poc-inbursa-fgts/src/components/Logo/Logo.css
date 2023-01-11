@@ -1,0 +1,16 @@
+.proposed-logo {
+    width: 70%;
+}
+
+@media (max-width: 992px) {
+    .proposed-logo {
+        text-align: center;
+        width: 100% !important;
+    }
+
+    .proposed-img-center {
+        text-align: center;
+        width: 200px !important;
+        margin-top: 10px;
+    }
+}

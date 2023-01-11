@@ -1,0 +1,24 @@
+.flex-center-addres {
+    display: flex;
+    justify-content: left;
+    margin-bottom: 3px;
+    cursor: pointer;
+}
+
+
+.text-aceite-sub {
+    color: #6C6C6C;
+}
+
+.flex-center .text-aceite-checked {
+    color: #6C6C6C;
+    width: 450px;
+    text-align: left;
+}
+
+.checked-border {
+    background: #FFFFFF;
+    border: 2px solid #17335E !important;
+    width: 30px;
+    height: 30px;
+}

@@ -1,0 +1,74 @@
+@media (max-width: 600px) {
+    .Accession-background {
+        background: #d9d9d9;
+        padding: 20px;
+    }
+
+    .box-Accession-position-left{
+        margin-left: 0px !important;
+    }
+
+    .box-size-center{
+        text-align: center;
+    }
+
+    .title-section-Accession {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 42px;
+        color: #17335E;
+        padding: 5px;
+        text-align: center !important;
+        width: 100%;
+    }
+
+    .ftgs-img-size-Accession {
+        width: 80%;
+        margin-left: 0px;
+        text-align: center;
+        padding: 15px;
+    }
+
+    .subTitle-Accession {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 18px;
+        color: #17335E;
+        padding: 5px;
+        text-align: center;
+        width: 100%;
+    }
+
+    .list-Accession {
+        margin-left: 0px;
+        text-decoration: none;
+        list-style: none;
+        color: #17335E;
+    }
+
+    .list-Accession li {
+        padding: 10px;
+    }
+
+    .bold-text {
+    }
+
+    .set-img {
+        float: unset;
+        padding: 5px;
+        text-align: center;
+        width: 100%;
+        display: none;
+    }
+
+    .img-size-end-white-Accession {
+        width: 170px;
+        margin-top: 10px;
+        padding: 5px;
+    }
+
+}

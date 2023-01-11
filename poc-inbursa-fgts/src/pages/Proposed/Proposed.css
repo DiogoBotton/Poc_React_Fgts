@@ -1,0 +1,46 @@
+.border-custom-proposed {
+    border: 0.5px solid #9A9797;
+    background-color: #D2CDCD;
+    height: 53px;
+    border-radius: 12px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.border-custom-proposed-flex {
+    border: 0.5px solid #9A9797;
+    background-color: #D2CDCD;
+    height: 53px;
+    border-radius: 12px;
+    margin: 5px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.border-custom-proposed-flex-saque {
+    border: 0.5px solid #9A9797;
+    background-color: #D2CDCD;
+    height: 53px;
+    border-radius: 12px;
+    margin: 5px;
+    padding: 5px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.box-text {
+    margin-left: 10px !important;
+}
+
+.resume-proposed {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+    color: #0F3D83;
+}

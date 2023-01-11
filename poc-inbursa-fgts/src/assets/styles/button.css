@@ -1,0 +1,85 @@
+.button-header-home {
+    border: 1.5px solid #17335E !important;
+    border-radius: 7px !important;
+    width: 250px !important;
+    height: 52px !important;
+    font-weight: 500 !important;
+    font-size: 24px !important;
+    line-height: 28px !important;
+    color: #17335E !important;
+    text-transform: none !important;
+}
+
+.button-header-home:hover {
+    background-color: #17335e15 !important;
+}
+
+.button-contained-white {
+    background: #fff !important;
+    border-radius: 5px !important;
+    height: 52px !important;
+    width: auto !important;
+    font-weight: 400 !important;
+    font-size: 25px !important;
+    line-height: 30px !important;
+    color: #17335E !important;
+    text-transform: none !important;
+}
+
+.button-contained-white:hover {
+    background-color: rgb(230, 230, 230) !important;
+}
+
+.proposed-button {
+    background: #17335E !important;
+    border: 2px solid #17335E !important;
+    border-radius: 6px !important;
+    color: #fff !important;
+    width: 150px;
+}
+
+.proposed-button-custom {
+    background: #17335E !important;
+    border: 2px solid #17335E !important;
+    border-radius: 6px !important;
+    color: #fff !important;
+    width: 110px;
+}
+
+.proposed-button-outline {
+    border: 2px solid #17335E !important;
+    border-radius: 6px !important;
+    color: #17335E !important;
+    width: 110px;
+}
+
+@media (max-width: 992px) {
+    .button-header-home {
+        border: 2px solid #17335E !important;
+        border-radius: 6px !important;
+        width: auto !important;
+        height: 32px !important;
+        font-weight: 900 !important;
+        font-size: 11px !important;
+        line-height: 12px !important;
+    }
+
+    .button-contained-white.button-contained-white-bar {
+        height: 33px !important;
+        font-weight: 700 !important;
+        font-size: 18px !important;
+        line-height: 21px !important;
+    }
+    
+    .button-contained-white  {
+        font-size: 24px !important;
+        line-height: 28px !important;
+    }
+
+    .proposed-button{
+        width: 100%;
+        border-radius: 10px !important;
+        padding: 10px !important;
+        font-size: 12px !important;
+    }
+};

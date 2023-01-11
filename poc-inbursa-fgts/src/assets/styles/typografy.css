@@ -1,0 +1,32 @@
+.title {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 19px;
+    color: #6C6C6C;
+}
+
+.title-large {
+    font-family: 'Roboto' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 32px !important;
+    line-height: 38px !important;
+    text-align: center !important;
+    color: #6C6C6C !important;
+}
+
+@media (max-width: 992px) {
+    .title {
+        padding: 10px;
+        margin-top: 10px;
+        display: none;
+    }
+
+    .title-large {
+        font-weight: 400 !important;
+        font-size: 24px !important;
+        line-height: 32px !important;
+    }
+}

@@ -1,0 +1,19 @@
+@media (max-width: 992px) {
+    .proposed-logo-text {
+        display: none;
+    }
+
+    .proposed-padding-text {
+        margin-top: 50px;
+        margin-bottom: 6px;
+    }
+
+    .proposed-row-img{
+        display: none;
+    }
+
+    .proposed-document{
+        margin-left: 0px;
+    }
+}
+
